@@ -78,7 +78,7 @@ servers:
     description: |
       ## Demo API endpoint 
       You can use the demo API key `TOKEN` to test the endpoints from within this API spec
-  - url: 'https://invoie.dispatchedwork.com'
+  - url: 'https://invoice.dispatchedwork.com'
     description: |
       ## Production API endpoint
 paths:
